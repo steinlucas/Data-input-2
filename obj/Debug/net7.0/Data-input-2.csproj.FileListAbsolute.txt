@@ -1,0 +1,15 @@
+C:\GitLab\Data-input-2\bin\Debug\net7.0\Data-input-2.exe
+C:\GitLab\Data-input-2\bin\Debug\net7.0\Data-input-2.deps.json
+C:\GitLab\Data-input-2\bin\Debug\net7.0\Data-input-2.runtimeconfig.json
+C:\GitLab\Data-input-2\bin\Debug\net7.0\Data-input-2.dll
+C:\GitLab\Data-input-2\bin\Debug\net7.0\Data-input-2.pdb
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.csproj.AssemblyReference.cache
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.AssemblyInfoInputs.cache
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.AssemblyInfo.cs
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.csproj.CoreCompileInputs.cache
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.dll
+C:\GitLab\Data-input-2\obj\Debug\net7.0\refint\Data-input-2.dll
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.pdb
+C:\GitLab\Data-input-2\obj\Debug\net7.0\Data-input-2.genruntimeconfig.cache
+C:\GitLab\Data-input-2\obj\Debug\net7.0\ref\Data-input-2.dll
